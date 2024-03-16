@@ -11,3 +11,21 @@ Este projeto é um simples gerenciador de personagens desenvolvido como parte de
 Fique à vontade para explorar o código-fonte, contribuir com melhorias ou abrir problemas se encontrar algum bug.
 
 Divirta-se gerenciando seus personagens! 😄✨
+
+---
+
+*Classe Personagem:*
+- Criar uma classe chamada Personagem.
+- Ela terá um método inicializador que recebe e armazena o nome, descrição, link da imagem, programa e animador.
+
+*Criação de Personagens:*
+- Criar instâncias da classe Personagem para representar personagens específicos, como Mickey Mouse e Pateta.
+- Atribuir valores diretos aos atributos dessas instâncias.
+
+*Exibição de Informações:*
+- Mostrar as informações dos personagens no console usando print.
+
+*Teste e Verificação:*
+- Verificar se as informações dos personagens são exibidas corretamente no console.
+
+---
